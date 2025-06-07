@@ -26,7 +26,7 @@
 ## 介面預覽
 
 ![main_screen](https://github.com/user-attachments/assets/9863afb1-7095-442d-92dc-693d534b32b5)
-![result](https://github.com/user-attachments/assets/3ca3262e-45c7-4e58-a879-d4eceeb2c7f0)
+![result](https://github.com/user-attachments/assets/3a5c60d1-b5f8-4a21-b876-28569e4cfc61)
 ![history](https://github.com/user-attachments/assets/06970dc1-19e9-481d-a602-b9baa721360b)
 
 ## 📁 安裝與使用方式
